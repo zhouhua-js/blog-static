@@ -1,0 +1,2 @@
+webpackJsonp([30875753179511],{494:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Step Over",subtitle:"有趣的灵魂终会相遇",copyright:"© All rights reserved.",menu:[{label:"文章",path:"/"},{label:"关于我",path:"/about/"},{label:"联系我",path:"/contact/"}],author:{name:"周骅",email:"zhou--hua@163.com",github:"zhouhua-js",rss:"#"}}},allMarkdownRemark:{group:[{fieldValue:"undefined",totalCount:25},{fieldValue:"技术",totalCount:5}]}},pathContext:{}}}});
+//# sourceMappingURL=path---categories-c8b39d3f5592b5c4a39e.js.map
